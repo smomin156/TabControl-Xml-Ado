@@ -1,0 +1,15 @@
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\bin\Debug\TabcontrolAssignment.exe.config
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\bin\Debug\TabcontrolAssignment.exe
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\bin\Debug\TabcontrolAssignment.pdb
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.csproj.AssemblyReference.cache
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\MainWindow.g.cs
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\App.g.cs
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment_MarkupCompile.cache
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment_MarkupCompile.lref
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\MainWindow.baml
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.g.resources
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.Properties.Resources.resources
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.csproj.GenerateResource.cache
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.csproj.CoreCompileInputs.cache
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.exe
+C:\TRAINING\WPF-BhavanaMaam\TabcontrolAssignment\TabcontrolAssignment\obj\Debug\TabcontrolAssignment.pdb
